@@ -1,0 +1,4 @@
+TEAM # 6
+
+We have used a website templete from http://www.BFT.info and a simple gallery java script from dynamicdrive.com.
+All the other code was written by us during the 24 hours.
